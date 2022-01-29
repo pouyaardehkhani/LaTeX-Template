@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+
+\bibitem{site}
+learn latex.
+\newblock https://www.overleaf.com/learn/latex.
+
+\bibitem{ali2012}
+ali.
+\newblock latex.
+\newblock {\em anyCO}, 2(1):10--20, 2012.
+
+\bibitem{kim2006}
+kim.
+\newblock {\em basic latex}.
+\newblock PublishCO, 2006.
+
+\end{thebibliography}
