@@ -1,5 +1,5 @@
 # LaTeX-Template ![license](https://img.shields.io/github/license/pouyaardehkhani/LaTeX-Template.svg) ![releases](https://img.shields.io/github/release/pouyaardehkhani/LaTeX-Template.svg)
-This is some basic template of how to use LaTeX to write a professional document.
+This is a basic template of how to use LaTeX to write a professional document.
 # How to use the template
 You can use this file to learn by uploading this files in [overleaf](https://www.overleaf.com/) website.
 **overleaf** is an online LaTex editor that you can use to writing your documents.
